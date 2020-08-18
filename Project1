@@ -1,0 +1,4 @@
+r=1.1
+PI = 3.14
+area = PI * r * r
+print("Area of the circle is : %.2f" %area)
